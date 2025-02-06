@@ -12,6 +12,7 @@ export default {
       xl: '1400px',
       xl2 : '1640',
     },
+    
     colors: {
       'blue': '#043873',
       'blue-light': '#4F9CF9',
